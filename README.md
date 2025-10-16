@@ -88,9 +88,3 @@ The project's source code is organized into the following classes:
 * `PhotoCollection.java`: A class for managing a collection of `Photo` objects.
 * `ContextMenu.java`: Defines the right-click popup menu for actions on photos and collections.
 * `collections.dat`: A binary file that is automatically generated to persist collection data.
-
----
-
-## Author
-
-* **Marcin Golberg**
